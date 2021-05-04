@@ -1,0 +1,392 @@
+{
+    "Custom": {
+        "Custom Hardware Specs": {
+            "hashrate": "50",
+            "consumption": "3000" ,
+            "support": "0",
+            "compare": "0"
+        }
+    },
+    "Braiins OS+ Autotuning": {
+        "Antminer S9 Overclocking": {
+            "hashrate": "17",
+            "consumption": "1500",
+            "support": "1",
+            "compare": "Antminer S9 High Efficiency"
+        },
+        "Antminer S9 High Efficiency": {
+            "hashrate": "11",
+            "consumption": "800",
+            "support": "1",
+            "compare": "Antminer S9 Overclocking"
+        },
+        "Antminer S17 Overclocking": {
+            "hashrate": "64",
+            "consumption": "2700",
+            "support": "1",
+            "compare": "Antminer 17 High Efficiency"
+        },
+        "Antminer S17 High Efficiency": {
+            "hashrate": "41",
+            "consumption": "1400",
+            "support": "1",
+            "compare": "Antminer S17 Overclocking"
+        },
+        "Antminer S17 Pro Overclocking": {
+            "hashrate": "67",
+            "consumption": "2700",
+            "support": "1",
+            "compare": "Antminer S17 Pro High Efficiency"
+        },
+        "Antminer S17 Pro High Efficiency": {
+            "hashrate": "41",
+            "consumption": "1400",
+            "support": "1",
+            "compare": "Antminer S17 Pro Overclocking"
+        },
+        "Antminer S17+ Overclocking": {
+            "hashrate": "84",
+            "consumption": "3600",
+            "support": "1",
+            "compare": "Antminer S17+ High Efficiency"
+        },
+        "Antminer S17+ High Efficiency": {
+            "hashrate": "57",
+            "consumption": "1800",
+            "support": "1",
+            "compare": "Antminer S17+ Overclocking"
+        },
+        "Antminer T17 Overclocking": {
+            "hashrate": "50",
+            "consumption": "2360",
+            "support": "1",
+            "compare": "Antminer T17 High Efficiency"
+        },
+        "Antminer T17 High Efficiency": {
+            "hashrate": "28.5",
+            "consumption": "1200",
+            "support": "1",
+            "compare": "Antminer T17 Overclocking"
+        },
+        "Antminer T17+ Overclocking": {
+            "hashrate": "70",
+            "consumption": "3460",
+            "support": "1",
+            "compare": "Antminer T17+ High Efficiency"
+        },
+        "Antminer T17+ High Efficiency": {
+            "hashrate": "47.5",
+            "consumption": "1900",
+            "support": "1",
+            "compare": "Antminer T17+ Overclocking"
+        }
+    },
+    "Bitmain (Antminer)": {
+        "S9": {
+            "hashrate": "13.5",
+            "consumption": "1160",
+            "support": "1",
+            "compare": "Antminer S9 Overclocking"
+        },
+        "S9i": {
+            "hashrate": "13",
+            "consumption": "1120",
+            "support": "1",
+            "compare": "Antminer S9 Overclocking"
+        },
+        "S9j": {
+            "hashrate": "14.5",
+            "consumption": "1190",
+            "support": "1",
+            "compare": "Antminer S9 Overclocking"
+        },
+        "S9 SE": {
+            "hashrate": "16",
+            "consumption": "1280",
+            "support": "0",
+            "compare": "0"
+        },
+        "S9k": {
+            "hashrate": "13.5",
+            "consumption": "1150",
+            "support": "0",
+            "compare": "0"
+        },
+        "S9 Hydro": {
+            "hashrate": "18",
+            "consumption": "1475",
+            "support": "0",
+            "compare": "0"
+        },
+        "T9": {
+            "hashrate": "12.5",
+            "consumption": "1375",
+            "support": "0",
+            "compare": "0"
+        },
+        "T9+": {
+            "hashrate": "10.5",
+            "consumption": "1245",
+            "support": "0",
+            "compare": "0"
+        },
+        "S11": {
+            "hashrate": "20.5",
+            "consumption": "1530",
+            "support": "0",
+            "compare": "0"
+        },
+        "S15": {
+            "hashrate": "28",
+            "consumption": "1596",
+            "support": "0",
+            "compare": "0"
+        },
+        "T15": {
+            "hashrate": "23",
+            "consumption": "1541",
+            "support": "0",
+            "compare": "0"
+        },
+        "S17": {
+            "hashrate": "56",
+            "consumption": "2520",
+            "support": "1",
+            "compare": "Antminer S17 Overclocking"
+        },
+        "S17 Pro": {
+            "hashrate": "53",
+            "consumption": "2094",
+            "support": "1",
+            "compare": "Antminer S17 Pro Overclocking"
+        },
+        "S17+": {
+            "hashrate": "73",
+            "consumption": "2920",
+            "support": "1",
+            "compare": "Antminer S17+ Overclocking"
+        },
+        "S17e": {
+            "hashrate": "64",
+            "consumption": "2880",
+            "support": "0",
+            "compare": "0"
+        },
+        "T17": {
+            "hashrate": "40",
+            "consumption": "2200",
+            "support": "1",
+            "compare": "Antminer T17 Overclocking"
+        },
+        "T17+": {
+            "hashrate": "64",
+            "consumption": "3200",
+            "support": "1",
+            "compare": "Antminer T17+ Overclocking"
+        },
+        "T17e": {
+            "hashrate": "53",
+            "consumption": "2915",
+            "support": "0",
+            "compare": "0"
+        },
+        "S19": {
+            "hashrate": "95",
+            "consumption": "3250",
+            "support": "0",
+            "compare": "0"
+        },
+        "S19 Pro": {
+            "hashrate": "110",
+            "consumption": "3250",
+            "support": "0",
+            "compare": "0"
+        },
+        "T19": {
+            "hashrate": "84",
+            "consumption": "3150",
+            "support": "0",
+            "compare": "0"
+        }
+    },
+
+    "MicroBT (Whatsminer)": {
+        "M10": {
+            "hashrate": "33",
+            "consumption": "2145",
+            "support": "0",
+            "compare": "0"
+        },
+        "M10S": {
+            "hashrate": "55",
+            "consumption": "3500",
+            "support": "0",
+            "compare": "0"
+        },
+        "M20S": {
+            "hashrate": "68",
+            "consumption": "3360",
+            "support": "0",
+            "compare": "0"
+        },
+        "M20S+": {
+            "hashrate": "78",
+            "consumption": "3430",
+            "support": "0",
+            "compare": "0"
+        },
+        "M21": {
+            "hashrate": "31",
+            "consumption": "1860",
+            "support": "0",
+            "compare": "0"
+        },
+        "M21S": {
+            "hashrate": "56",
+            "consumption": "3360",
+            "support": "0",
+            "compare": "0"
+        },
+        "M21S+": {
+            "hashrate": "62",
+            "consumption": "3350",
+            "support": "0",
+            "compare": "0"
+        },
+        "M30S": {
+            "hashrate": "86",
+            "consumption": "3268",
+            "support": "0",
+            "compare": "0"
+        },
+        "M30S+": {
+            "hashrate": "100",
+            "consumption": "3400",
+            "support": "0",
+            "compare": "0"
+        },
+        "M30S++": {
+            "hashrate": "112",
+            "consumption": "3472",
+            "support": "0",
+            "compare": "0"
+        },
+        "M31S": {
+            "hashrate": "70",
+            "consumption": "2940",
+            "support": "0",
+            "compare": "0"
+        },
+        "M31S+": {
+            "hashrate": "88",
+            "consumption": "3344",
+            "support": "0",
+            "compare": "0"
+        }
+    },
+
+    "Canaan (Avalon)": {
+        "1047": {
+            "hashrate": "37",
+            "consumption": "2380",
+            "support": "0",
+            "compare": "0"
+        },
+        "1066": {
+            "hashrate": "50",
+            "consumption": "3250",
+            "support": "0",
+            "compare": "0"
+        },
+        "921": {
+            "hashrate": "20",
+            "consumption": "1700",
+            "support": "0",
+            "compare": "0"
+        },
+        "841": {
+            "hashrate": "13.6",
+            "consumption": "1290",
+            "support": "0",
+            "compare": "0"
+        },
+        "821": {
+            "hashrate": "11.5",
+            "consumption": "1200",
+            "support": "0",
+            "compare": "0"
+        }      
+    },
+
+    "Ebang (Ebit)": {
+        "E12": {
+            "hashrate": "44",
+            "consumption": "2500",
+            "support": "0",
+            "compare": "0"
+        },
+        "E11++": {
+            "hashrate": "45",
+            "consumption": "1980",
+            "support": "0",
+            "compare": "0"
+        },
+        "E12+": {
+            "hashrate": "50",
+            "consumption": "2500",
+            "support": "0",
+            "compare": "0"
+        },
+        "E10": {
+            "hashrate": "18",
+            "consumption": "1650",
+            "support": "0",
+            "compare": "0"
+        }        
+    },
+    
+    "Innosilicon": {
+        "T3 39TH": {
+            "hashrate": "39",
+            "consumption": "2150",
+            "support": "0",
+            "compare": "0"
+        },
+        "T3 43TH": {
+            "hashrate": "43",
+            "consumption": "2100",
+            "support": "0",
+            "compare": "0"
+        },
+        "T3 50TH": {
+            "hashrate": "50",
+            "consumption": "3100",
+            "support": "0",
+            "compare": "0"
+        },
+        "T3+ 52TH": {
+            "hashrate": "52",
+            "consumption": "2800",
+            "support": "0",
+            "compare": "0"
+        },
+        "T3+ 57TH": {
+            "hashrate": "57",
+            "consumption": "3300",
+            "support": "0",
+            "compare": "0"
+        },
+        "T2 Turbo": {
+            "hashrate": "25",
+            "consumption": "2050",
+            "support": "0",
+            "compare": "0"
+        },
+        "T2 Turbo+": {
+            "hashrate": "32",
+            "consumption": "2200",
+            "support": "0",
+            "compare": "0"
+        }
+    }
+}

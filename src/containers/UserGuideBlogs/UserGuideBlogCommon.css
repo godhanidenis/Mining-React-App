@@ -1,0 +1,318 @@
+body {
+    z-index: 3;
+    background-color: #000;
+    font-family: 'Braiins Sans', sans-serif;
+    color: #c6c6c6;
+    font-size: 18px;
+    line-height: 1.5em;
+}
+figcaption {
+    margin-top: 10px;
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 16px;
+    text-align: left;
+}
+.blog_content p {
+    margin-bottom: 20px;
+    font-size: 21px;
+    line-height: 1.5em;
+}
+.blog_content h2 {
+    margin-top: 0px;
+    padding-top: 35px;
+    font-family: 'Braiins Sans', sans-serif;
+    color: #fff;
+}
+
+.w-richtext figure.w-richtext-align-center {
+    margin-right: auto;
+    margin-left: auto;
+    clear: both;
+}
+
+.w-richtext figure.w-richtext-figure-type-image, .w-richtext figure[data-rt-type="image"] {
+    display: table;
+}
+.blog_content figure {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.w-richtext figure {
+    position: relative;
+    width: 100%;
+}
+li.toc-h3 {
+    font-style: italic;
+}
+.toc-h3 {
+    margin-left: 20px;
+}
+.blog_content {
+    position: relative;
+    font-family: 'IBM Plex Serif', sans-serif;
+    color: rgba(255, 255, 255, 0.93);
+}
+.braiins_section {
+    position: relative;
+    display: flex;
+    width: 100%;
+    max-width: 1300px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 65px;
+    padding-left: 65px;
+    justify-content: flex-start;
+    align-items: center;
+    color: #7b7b7b;
+}
+.blog_psot-category-name {
+    margin-right: 20px;
+    margin-bottom: 8px;
+    color: #6b50ff;
+    font-weight: 600;
+}
+.blog_summary {
+    max-width: 490px;
+    font-family: 'IBM Plex Serif', sans-serif;
+    color: rgba(255, 254, 254, 0.93);
+    font-size: 24px;
+    line-height: 1.45em;
+}
+.blog_published-date {
+    font-family: 'IBM Plex Serif', sans-serif;
+    color: #ababab;
+    font-style: italic;
+    font-size: 18px;
+}
+.w-richtext:before, .w-richtext:after {
+    content: " ";
+    display: table;
+    grid-column-start: 1;
+    grid-row-start: 1;
+    grid-column-end: 2;
+    grid-row-end: 2;
+}
+.w-richtext:after {
+    clear: both;
+}
+.w-inline-block {
+    max-width: 100%;
+    display: inline-block;
+}
+.braiins_section.hero {
+    margin-top: 110px;
+}
+.card_content-wrapper.intro {
+    position: relative;
+    max-width: 925px;
+}
+.braiins_section.featured-img {
+    overflow: hidden;
+    height: 680px;
+    margin-top: 45px;
+    margin-bottom: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+    background-image: url(https://assets.website-files.com/5e5ee6f…/601d72c…_OG%20Image%20v2.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.braiins_section.part-1 {
+margin-top: -40px;
+    padding-top: 80px;
+    justify-content: center;
+}
+.card_content-wrapper {
+    max-width: 700px;
+    flex: 1;
+}
+.toc-wrapper {
+    margin-bottom: 26px;
+    padding: 20px;
+    background-color: #3d3d3d;
+    font-family: 'IBM Plex Serif', sans-serif;
+    color: #fff;
+    text-decoration: none;
+}
+.toc-h3{
+    margin-left: 20px; 
+}  
+li.toc-h3 {
+    font-style: italic;
+}
+.toc ul {
+    padding-left: 26px !important;
+}
+.toc a {
+    color: rgba(219, 219, 219, 0.93);
+}
+.toc a:hover {
+    color: #6b50ff;
+}
+h1 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: #fff;
+    font-size: 44px;
+    line-height: 1.3em;
+    font-weight: 700;
+}
+.h1-2 {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: #fff;
+    font-size: 33px;
+    line-height: 1.2em;
+    text-transform: none;
+}
+h2 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: #fff;
+    font-size: 33px;
+    line-height: 1.3em;
+    font-weight: 700;
+}
+
+h3 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: #fff;
+    font-size: 24px;
+    line-height: 1.3em;
+    font-weight: 700;
+}
+
+h4 {
+    margin-top: 10px; 
+    margin-bottom: 10px; 
+    font-family: 'Braiins Sans', sans-serif; 
+    color: #fff;
+    font-size: 18px; 
+    line-height: 1.3em;
+    font-weight: 700;
+}
+p {
+    margin-bottom: 10px;
+}
+.toc a:hover {
+    color: #6b50ff;
+}
+ul {
+    margin-top: 0px;
+    margin-bottom: 10px;
+    padding-left: 40px;
+    font-size: 18px;
+}
+
+img {
+    display: inline-block;
+    max-width: 100%;
+}
+
+.blog_start-reading-wrapper{
+    display: flex;
+    font-size: 16px;
+    color: white;
+}
+
+.blog_start-reading-wrapper div{
+    margin-right: 16px;
+}
+
+.MuiLink-root{
+    cursor: pointer;
+}
+
+.blog_start-reading-wrapper:hover > .start-arrow{
+    -webkit-animation: start-arrow 1.5s;
+    animation: start-arrow 1.5s;
+}
+
+.blog_start-reading-wrapper div{
+    font-family: 'IBM Plex Serif', sans-serif;
+    color: #ababab;
+    font-style: italic;
+    font-size: 18px;
+}
+
+.content-space-around-end{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-end;
+    height: 100%;
+}
+
+@keyframes start-arrow {
+  0%{
+    -webkit-transform: translateY(0);
+    -moz-transform: translateY(0);
+    -ms-transform: translateY(0);
+    -o-transform: translateY(0);
+    transform: translateY(0);
+    opacity: 1;
+    }
+  20%{
+    -webkit-transform: translateY(8px);
+    -moz-transform: translateY(8px);
+    -ms-transform: translateY(8px);
+    -o-transform: translateY(8px);
+    transform: translateY(8px);
+    opacity: 0; 
+    }
+  40%{
+    -webkit-transform: translateY(-12px);
+    -moz-transform: translateY(-12px);
+    -ms-transform: translateY(-12px);
+    -o-transform: translateY(-12px);
+    transform: translateY(-12px); 
+    opacity: 0.30;
+    } 
+    60%{
+        opacity: 0.60;
+    } 
+    80%{
+        opacity: 0.90;
+    } 
+}
+
+@media screen and (max-width: 479px){
+    .blog_published-date {
+        position: static;
+        display: block;
+        margin-top: 16px;
+    }
+    .braiins_section.featured-img {
+        height: 200px;
+        margin-top: 28px;
+    }
+    .braiins_section.part-1 {
+        margin-top: 0px;
+        padding-top: 30px;
+        padding-right: 30px;
+        padding-left: 30px;
+    }
+    .card_content-wrapper {
+        max-width: 100%;
+        flex: 0 auto;
+    }
+    h2 {
+        font-size: 28px;
+    }
+    .braiins_section.hero {
+        margin-top: 60px;
+        padding-right: 30px;
+        padding-left: 30px;
+        padding-bottom: 7px;
+    }
+    .braiins_section {
+        display: grid;
+    }
+}
+@media screen and (max-width: 991px) and (min-width: 479px) {
+    .braiins_section.featured-img {
+        height: 400px ;
+    }
+}

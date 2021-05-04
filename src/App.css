@@ -1,0 +1,5 @@
+#root {
+  min-height: min(100%, 100vh);
+  height: min(100%, 100vh);
+  /* font-family: braiins-sans; */
+}
